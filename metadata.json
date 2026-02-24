@@ -1,0 +1,5 @@
+{
+  "name": "Notivo",
+  "description": "A clean, secure note-taking application with authentication, pinning, and full CRUD capabilities.",
+  "requestFramePermissions": []
+}
